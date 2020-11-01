@@ -2,16 +2,18 @@
 
 Installation:-
 
-$ apt update && apt upgrade
+# $ apt update && apt upgrade
 
-$ pkg install git -y
+# $ pkg install git -y
 
-$ pkg install python -y
+# $ pkg install python -y
 
-$ git clone https://github.com/shovon-fs/basic.git
+# $ git clone https://github.com/shovon-fs/basic.git
 
-$ cd basic
+# $ cd basic
 
-$ chmod +x *
+# $ chmod +x *
 
-$ python basic
+# $ python basic
+
+Basic tool complete.............
